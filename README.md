@@ -4,12 +4,15 @@ openfl-tiled
 
 openfl-tiled is a library, which gives openfl developers the ability to use the [TILED Map Editor](http://www.mapeditor.org/).
 
+This release supports Hexagonal Maps and works with latest OpenFL (8.8.0 atm)
+
+
 How to install openfl-tiled?
 --------------------------
 
-To install openfl-tiled you just need to run this in your terminal:
 
-	haxelib install openfl-tiled
+	haxelib git openfl-tiled https://github.com/jalbanesi/openfl-tiled
+	
 
 
 Restrictions
@@ -29,8 +32,5 @@ Contributions
 
 * Stephen Taylor @Schtee
 * @lulersoft
+* Juan Albanesi @jalbanesi
 
-Questions?
------------------
-
-If there are any questions feel free to contact me via [mail](mailto:ikasoki@gmail.com) or [Twitter](https://twitter.com/Kasoki)

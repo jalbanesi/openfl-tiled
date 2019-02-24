@@ -25,4 +25,5 @@ package openfl.tiled;
 enum TiledMapOrientation {
 		Orthogonal;
 		Isometric;
+		Hexagonal;
 }
